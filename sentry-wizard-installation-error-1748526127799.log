@@ -1,0 +1,30 @@
+npm error code ERESOLVE
+npm error ERESOLVE could not resolve
+npm error
+npm error While resolving: @clerk/nextjs@6.20.0
+npm error Found: next@15.1.8
+npm error node_modules/next
+npm error   next@"15.1.8" from the root project
+npm error   peer next@"^13.2.0 || ^14.0 || ^15.0.0-rc.0" from @sentry/nextjs@9.23.0
+npm error   node_modules/@sentry/nextjs
+npm error     @sentry/nextjs@"9.23.0" from the root project
+npm error
+npm error Could not resolve dependency:
+npm error peer next@"^13.5.7 || ^14.2.25 || ^15.2.3" from @clerk/nextjs@6.20.0
+npm error node_modules/@clerk/nextjs
+npm error   @clerk/nextjs@"^6.20.0" from the root project
+npm error
+npm error Conflicting peer dependency: next@15.3.2
+npm error node_modules/next
+npm error   peer next@"^13.5.7 || ^14.2.25 || ^15.2.3" from @clerk/nextjs@6.20.0
+npm error   node_modules/@clerk/nextjs
+npm error     @clerk/nextjs@"^6.20.0" from the root project
+npm error
+npm error Fix the upstream dependency conflict, or retry
+npm error this command with --force or --legacy-peer-deps
+npm error to accept an incorrect (and potentially broken) dependency resolution.
+npm error
+npm error
+npm error For a full report see:
+npm error C:\Users\abdul\AppData\Local\npm-cache\_logs\2025-05-29T13_42_04_607Z-eresolve-report.txt
+npm error A complete log of this run can be found in: C:\Users\abdul\AppData\Local\npm-cache\_logs\2025-05-29T13_42_04_607Z-debug-0.log
